@@ -1,2 +1,3 @@
-#https://rickywanga.github.io/rickywanga.github.io-arIA/
+#https://rickywanga42.github.io/
+
 arIA
